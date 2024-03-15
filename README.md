@@ -1,1 +1,1 @@
-﻿# primeiro_projeto
+﻿# curso_ebac_frontend
